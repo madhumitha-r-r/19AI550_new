@@ -82,9 +82,15 @@ public class fleeScript : MonoBehaviour
 ```
 ### Output:
 
+#### initial position
 <img width="905" height="483" alt="image" src="https://github.com/user-attachments/assets/116044f8-e1b2-4d18-9666-a09adeb202d7" />
+
+#### seek and flee position
 <img width="912" height="475" alt="image" src="https://github.com/user-attachments/assets/bae479f1-a064-4c3e-b891-fc77e3789fe2" />
-blue - seek
+
+
+blue - seeker
+
 black - flee
 
 
