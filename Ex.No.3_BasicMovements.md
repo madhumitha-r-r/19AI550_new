@@ -58,6 +58,13 @@ public class TransformOperations : MonoBehaviour
 ```
 ### Output:
 
+#### initial position
+
+<img width="1913" height="1111" alt="image" src="https://github.com/user-attachments/assets/0a774d72-b772-4bea-924a-a1d1a04152bb" />
+
+#### final position
+
+<img width="1915" height="1112" alt="image" src="https://github.com/user-attachments/assets/1cd35088-1ca8-4223-b0ca-8ce0f91db0cd" />
 
 
 
